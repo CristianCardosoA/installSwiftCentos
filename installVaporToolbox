@@ -2,5 +2,9 @@
 
 git clone https://github.com/vapor/toolbox.git
 cd toolbox
-git checkout <desired version>
+git checkout 18.2.2
 make install
+
+#yum install http://opensource.wandisco.com/centos/7/git/x86_64/wandisco-git-release-7-2.noarch.rpm
+#yum install git
+#git --version
