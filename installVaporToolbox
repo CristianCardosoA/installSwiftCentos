@@ -1,0 +1,6 @@
+#!/bin/bash
+
+git clone https://github.com/vapor/toolbox.git
+cd toolbox
+git checkout <desired version>
+make install
